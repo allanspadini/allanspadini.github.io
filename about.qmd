@@ -1,19 +1,21 @@
 ---
-title: "About"
+title: "Sobre"
 image: profile.jpg
 about:
   template: jolla
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/allanspadini
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/allan-spadini/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/allanspadini
 
 ---
 
-About this blog
+Um geofísico que dá aulas de ciência de dados e gosta muito de gatos.
+
+Recentemente eu e uma amiga lançamos um livro. O nome é [Séries temporais com Prophet Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet). Comprando o livro você aprende sobre um tema muito legal de Ciência de dados e apoia esse blog :)
