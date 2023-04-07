@@ -6,8 +6,7 @@ website:
   title: "Allan Spadini"
   navbar:
     right:
-      - text: Posts
-        href: posts/index.qmd
+      
       - text: Aprender Geofísica
         menu: 
         - text: Sísmica
