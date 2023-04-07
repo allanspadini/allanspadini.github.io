@@ -7,10 +7,27 @@ website:
   navbar:
     right:
       - about.qmd
+      - text: Aprender Geofísica
+        menu: 
+          - text: Sísmica
+          href: https://www.youtube.com/watch?v=evYh-mtvhQQ&list=PLJL6CiUP6VydBjCqH_TiUcERljDZm38hW&pp=gAQB
+          - text: Geoelétrica
+          href: https://www.youtube.com/watch?v=5yVfJ6UHPRo&list=PLJL6CiUP6VydHHBTQXaWONN45NfZmxVUz&pp=gAQB
+      - text: Apps
+        menu:
+          - text: Geo Cat Eye
+          href: https://allanspadini-geocateye-geocateye-dvdnbe.streamlit.app/
+      - text: Livros
+        menu:
+          - text: Séries temporais com Prophet
+          href: https://www.casadocodigo.com.br/products/livro-series-temporais-prophet
+        
+
       - icon: github
         href: https://github.com/allanspadini
       - icon: twitter
         href: https://twitter.com/allanspadini
+      
 format:
   html:
     theme: lux
