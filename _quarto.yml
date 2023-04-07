@@ -9,17 +9,17 @@ website:
       - about.qmd
       - text: Aprender Geofísica
         menu: 
-          - text: Sísmica
+        - text: Sísmica
           href: https://www.youtube.com/watch?v=evYh-mtvhQQ&list=PLJL6CiUP6VydBjCqH_TiUcERljDZm38hW&pp=gAQB
-          - text: Geoelétrica
+        - text: Geoelétrica
           href: https://www.youtube.com/watch?v=5yVfJ6UHPRo&list=PLJL6CiUP6VydHHBTQXaWONN45NfZmxVUz&pp=gAQB
       - text: Apps
         menu:
-          - text: Geo Cat Eye
+        - text: Geo Cat Eye
           href: https://allanspadini-geocateye-geocateye-dvdnbe.streamlit.app/
       - text: Livros
         menu:
-          - text: Séries temporais com Prophet
+        - text: Séries temporais com Prophet
           href: https://www.casadocodigo.com.br/products/livro-series-temporais-prophet
         
 
