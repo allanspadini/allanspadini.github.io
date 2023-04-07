@@ -6,7 +6,8 @@ website:
   title: "Allan Spadini"
   navbar:
     right:
-      - about.qmd
+      - text: Posts
+        href: posts/index.qmd
       - text: Aprender Geofísica
         menu: 
         - text: Sísmica
@@ -27,10 +28,12 @@ website:
         href: https://github.com/allanspadini
       - icon: twitter
         href: https://twitter.com/allanspadini
+
+      - about.qmd
       
 format:
   html:
-    theme: lux
+    theme: pulse
     css: styles.css
 
 
