@@ -1,9 +1,9 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2023-03-28"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Transformadas de fase e de Hilbert"
+author: "Allan Spadini"
+date: "2023-03-30"
+categories: [geofísica, sinais digitais]
+image: "image.jfif"
 ---
 
 This is a post with executable code.
