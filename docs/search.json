@@ -18,6 +18,6 @@
     "href": "posts/post-with-code/index.html",
     "title": "Transformadas de fase e de Hilbert",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "This is a post with executable code.\n\\[ \\frac{x^2}{\\alpha} \\]\nimport numpy as np"
   }
 ]
