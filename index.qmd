@@ -1,5 +1,6 @@
 ---
-title: "Allan Spadini"
+title: "Posts"
+lang: pt-br
 listing:
   contents: posts
   sort: "date desc"
