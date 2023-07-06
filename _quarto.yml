@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Allan Spadini"
+  favicon: favicon.png
+  google-analytics: "G-GYGVDM95HH"
   navbar:
     right:
       
@@ -21,8 +23,12 @@ website:
         menu:
         - text: Séries temporais com Prophet
           href: https://www.casadocodigo.com.br/products/livro-series-temporais-prophet
-        
 
+      - text: Monitor da Terra
+        menu:
+        - text: Terremotos no mundo
+          href: https://allanspadini.com/mapa_terremotos/
+        
       - icon: github
         href: https://github.com/allanspadini
       - icon: twitter
