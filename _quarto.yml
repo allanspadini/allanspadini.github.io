@@ -38,7 +38,7 @@ website:
       
 format:
   html:
-    theme: darkly
+    theme: default
       
     css: styles.css
 
