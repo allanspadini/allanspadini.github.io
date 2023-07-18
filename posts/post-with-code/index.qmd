@@ -9,7 +9,7 @@ image: "image.jfif"
 This is a post with executable code.
 
 
-$$ \frac{x^2}{\alpha} $$
+$$ \frac{x^3}{\alpha} $$
 
 ```Python
 import numpy as np 
