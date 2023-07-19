@@ -4,6 +4,7 @@ author: "Allan Spadini"
 date: "2023-07-19"
 categories: [notícias]
 image: "image.jfif"
+lang: pt
 ---
 
 
