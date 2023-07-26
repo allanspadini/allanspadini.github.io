@@ -9,11 +9,18 @@ lang: pt
 
 Os terremotos são um dos fenômenos naturais mais destrutivos e imprevisíveis do planeta. Apesar dos avanços na tecnologia de monitoramento e previsão, ainda há muito a ser descoberto sobre as fases precursoras desses eventos. Recentemente, um estudo publicado na Science revelou novas evidências sobre a fase precursora dos terremotos, usando dados de GPS para detectar sinais de deslizamento lento nas falhas antes dos terremotos. Neste artigo, vamos explorar os resultados deste estudo inovador e discutir suas implicações para a previsão e o monitoramento de terremotos.
 
+<div style="display: flex; justify-content: center;">
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=geofisico-20&language=pt_BR&marketplace=amazon&region=BR&placement=B0C2W21JSM&asins=B0C2W21JSM&linkId=04a882bf2c4663aababf7a5b89f021ee&show_border=true&link_opens_in_new_window=true"></iframe>
-##O que é deslizamento lento e como ele se relaciona com os terremotos
+</div>
+
+## O que é deslizamento lento e como ele se relaciona com os terremotos
 
 O deslizamento lento é um fenômeno geológico que ocorre nas falhas tectônicas e pode estar relacionado aos terremotos. Diferentemente dos terremotos convencionais, que liberam energia em um curto período de tempo, o deslizamento lento libera energia a uma taxa mais baixa ao longo de dias, meses ou anos. Esses processos podem ocorrer ao longo da megafalha e outros planos de fraqueza em resposta ao carregamento, liberando ondas sísmicas de baixa frequência. Embora os terremotos lentos nem sempre antecipem um terremoto convencional, eles são importantes para entender melhor como os terremotos são gerados e podem ajudar na previsão de grandes tremores.
+<div style="display: flex; justify-content: center;">
+  <iframe sandbox="allow-popups allow-scripts allow-mo
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=geofisico-20&language=pt_BR&marketplace=amazon&region=BR&placement=B083MCN5XT&asins=B083MCN5XT&linkId=8aba4e5a77899881297170c3250f6305&show_border=true&link_opens_in_new_window=true"></iframe>
+</div>
+
 ## Como os autores do artigo fizeram uma busca global por deslizamento lento em dados de GPS
 Os autores do artigo fizeram uma busca global por deslizamento lento em dados de GPS usando o seguinte método:
 Eles coletaram dados de GPS de alta frequência (5 minutos) de 3026 estações localizadas em um raio de 500 km dos epicentros de 90 terremotos de magnitude 7 ou maior que ocorreram entre 2000 e 2020.
