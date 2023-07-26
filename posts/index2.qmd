@@ -1,0 +1,32 @@
+---
+title: "Fase precursora dos grandes terremotos: o que os dados de GPS revelam"
+author: "Allan Spadini"
+date: "2023-07-26"
+categories: [notícias,sismologia]
+image: "https://cdn.pixabay.com/photo/2017/02/26/04/47/cracks-2099531_1280.jpg"
+lang: pt
+---
+
+Os terremotos são um dos fenômenos naturais mais destrutivos e imprevisíveis do planeta. Apesar dos avanços na tecnologia de monitoramento e previsão, ainda há muito a ser descoberto sobre as fases precursoras desses eventos. Recentemente, um estudo publicado na Science revelou novas evidências sobre a fase precursora dos terremotos, usando dados de GPS para detectar sinais de deslizamento lento nas falhas antes dos terremotos. Neste artigo, vamos explorar os resultados deste estudo inovador e discutir suas implicações para a previsão e o monitoramento de terremotos.
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=geofisico-20&language=pt_BR&marketplace=amazon&region=BR&placement=B0C2W21JSM&asins=B0C2W21JSM&linkId=04a882bf2c4663aababf7a5b89f021ee&show_border=true&link_opens_in_new_window=true"></iframe>
+##O que é deslizamento lento e como ele se relaciona com os terremotos
+
+O deslizamento lento é um fenômeno geológico que ocorre nas falhas tectônicas e pode estar relacionado aos terremotos. Diferentemente dos terremotos convencionais, que liberam energia em um curto período de tempo, o deslizamento lento libera energia a uma taxa mais baixa ao longo de dias, meses ou anos. Esses processos podem ocorrer ao longo da megafalha e outros planos de fraqueza em resposta ao carregamento, liberando ondas sísmicas de baixa frequência. Embora os terremotos lentos nem sempre antecipem um terremoto convencional, eles são importantes para entender melhor como os terremotos são gerados e podem ajudar na previsão de grandes tremores.
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=geofisico-20&language=pt_BR&marketplace=amazon&region=BR&placement=B083MCN5XT&asins=B083MCN5XT&linkId=8aba4e5a77899881297170c3250f6305&show_border=true&link_opens_in_new_window=true"></iframe>
+## Como os autores do artigo fizeram uma busca global por deslizamento lento em dados de GPS
+Os autores do artigo fizeram uma busca global por deslizamento lento em dados de GPS usando o seguinte método:
+Eles coletaram dados de GPS de alta frequência (5 minutos) de 3026 estações localizadas em um raio de 500 km dos epicentros de 90 terremotos de magnitude 7 ou maior que ocorreram entre 2000 e 2020.
+Eles calcularam o deslocamento horizontal observado por cada estação em cada intervalo de tempo, projetado na direção esperada do deslizamento lento no hipocentro do terremoto iminente, usando os mecanismos focais dos terremotos.
+Eles somaram os produtos escalares desses deslocamentos observados com os deslocamentos esperados por uma unidade de deslizamento lento, ponderados pelo inverso do quadrado da amplitude do ruído em cada estação, para obter uma série temporal global do deslizamento lento acumulado nas 48 horas anteriores aos terremotos.
+Eles analisaram estatisticamente essa série temporal global e procuraram por sinais de aceleração exponencial ou oscilação sinusoidal do deslizamento lento antes dos terremotos.
+Eles encontraram evidências de uma fase precursora de deslizamento lento que ocorre cerca de 2 horas antes da ruptura sísmica, sugerindo que os grandes terremotos começam com um deslizamento lento que poderia ser detectado e monitorado com melhorias na precisão e densidade das medições de GPS. Eles também encontraram indícios de uma oscilação periódica do deslizamento lento, possivelmente relacionada à excitação das marés ou a um efeito de ressonância quando as falhas se aproximam do estado crítico de falha.
+
+## Quais são as implicações dos resultados para a previsão de terremotos
+
+Os resultados do estudo que eu mencionei anteriormente sugerem que muitos terremotos grandes começam com uma fase precursora de deslizamento lento que poderia ser detectada e monitorada com melhorias na precisão e densidade das medições de GPS. Isso pode ajudar a mitigar o risco de terremotos nas zonas de contato entre as placas tectônicas. No entanto, mais trabalho é necessário para provar que essa fase precursora existe para todos ou pelo menos a maioria dos grandes terremotos.
+
+Fonte: https://www.science.org/doi/10.1126/science.adg2565?adobe_mc=MCMID%3D57966028846510634070180700190144944052%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1690375681
+
+
+
