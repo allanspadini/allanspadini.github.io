@@ -44,9 +44,10 @@ $min-contrast-ratio:   2.6 !default;
 
 $enable-rounded: false !default;
 
+
 // Body
 
-$body-color:    $black !default;
+$popover-bg:    $black !default;
 
 // Fonts
 
@@ -59,6 +60,11 @@ $headings-font-weight:      400 !default;
 $navbar-dark-hover-color:       rgba($white, 1) !default;
 $navbar-light-hover-color:      rgba($black, .9) !default;
 $navbar-bg:$yellow;
+$navbar-fg:$black;
+$sidebar-bg:$yellow;
+$footer-bg:$yellow;
+$dropdown-bg: $yellow !default; // Escolha a cor que preferir
+
 
 // Alerts
 
