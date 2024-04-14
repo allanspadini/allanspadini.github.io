@@ -41,9 +41,9 @@ website:
       
 format:
   html:
-    theme: default
+    theme: tema.scss
       
-    css: styles.css
+ 
 
 
 
