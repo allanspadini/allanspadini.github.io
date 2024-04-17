@@ -41,7 +41,7 @@ website:
       
 format:
   html:
-    theme: tema.scss
+    theme: litera
       
  
 
