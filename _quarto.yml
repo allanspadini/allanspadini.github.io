@@ -34,8 +34,8 @@ website:
         
       - icon: github
         href: https://github.com/allanspadini
-      - icon: twitter
-        href: https://twitter.com/allanspadini
+      - icon: linkedin
+        href: https://www.linkedin.com/in/allan-spadini/
 
       - about.qmd
       

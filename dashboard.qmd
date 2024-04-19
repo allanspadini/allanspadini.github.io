@@ -1,0 +1,9 @@
+---
+format: 
+  html:
+    page-layout: full
+    overflow: hidden
+    title-block-banner: false
+---
+
+<iframe src="https://allanspadini.com/mapa_terremotos/" frameborder="0" height=100% width=100% ></iframe>
