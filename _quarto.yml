@@ -22,6 +22,8 @@ website:
         menu:
         - text: Geo Cat Eye
           href: https://allanspadini-geocateye-geocateye-dvdnbe.streamlit.app/
+        - text: Cat Surface
+          href: catsurface.qmd
       - text: Livros
         menu:
         - text: Séries temporais com Prophet
