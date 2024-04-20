@@ -30,7 +30,7 @@ website:
       - text: Monitor da Terra
         menu:
         - text: Terremotos no mundo
-          href: https://allanspadini.com/mapa_terremotos/
+          href: dashboard.qmd
         
       - icon: github
         href: https://github.com/allanspadini
