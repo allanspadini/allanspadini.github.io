@@ -14,9 +14,9 @@ Ametista, uma das gemas mais fascinantes e reverenciadas ao longo da história, 
 
 # Propriedades da Ametista
 
-**Composição**: A ametista é uma variedade de quartzo. Assim, a composição química da ametista é essencialmente dióxido de silício ($$ SiO_2 $$), o mesmo composto que forma o quartzo incolor. Porém, na ametista temos a presença de ferro ( $$ Fe $$), incorporado na estrutura do cristal de quartzo. Durante a formação da ametista, íons de ferro substituem alguns dos íons de silício no quartzo.
+**Composição**: A ametista é uma variedade de quartzo. Assim, a composição química da ametista é essencialmente dióxido de silício ($SiO_2$), o mesmo composto que forma o quartzo incolor. Porém, na ametista temos a presença de ferro ( $Fe$), incorporado na estrutura do cristal de quartzo. Durante a formação da ametista, íons de ferro substituem alguns dos íons de silício no quartzo.
 
-**Cor**: Púrpura. O que diferencia a ametista de outras formas de quartzo é a presença de impurezas e a maneira como elas afetam a estrutura cristalina do mineral. A cor púrpura é atribuída principalmente à presença de ferro (Fe). Além disso, a exposição a diferentes níveis de radiação e a variação na quantidade de ferro podem resultar em uma gama de tonalidades dentro de uma mesma peça de ametista, o que contribui para a sua beleza única e valor como gema. Em estudos geocientíficos, essas características podem ser exploradas para entender melhor os processos geológicos subjacentes que levam à formação de ametista em determinados ambientes rochosos.
+**Cor**: Púrpura. O que diferencia a ametista de outras formas de quartzo é a presença de impurezas e a maneira como elas afetam a estrutura cristalina do mineral. A cor púrpura é atribuída principalmente à presença de ferro ($Fe$). Além disso, a exposição a diferentes níveis de radiação e a variação na quantidade de ferro podem resultar em uma gama de tonalidades dentro de uma mesma peça de ametista, o que contribui para a sua beleza única e valor como gema. Em estudos geocientíficos, essas características podem ser exploradas para entender melhor os processos geológicos subjacentes que levam à formação de ametista em determinados ambientes rochosos.
 
 **Transparência**: A ametista se destaca pela sua transparência excepcional, que realça sua coloração púrpura e varia de acordo com a presença de inclusões. Esta clareza permite uma profundidade de cor impressionante, elevando seu valor e interesse estético.
 
@@ -26,7 +26,7 @@ Ametista, uma das gemas mais fascinantes e reverenciadas ao longo da história, 
 
 **Dureza**: A ametista possui uma dureza de 7 na escala de Mohs, o que a torna relativamente resistente a arranhões e desgaste diário. Esta dureza faz com que seja uma escolha popular para jóias e outros usos decorativos.
 
-**Traço*: O traço da ametista, quando testado, é geralmente branco, o que é típico para variedades de quartzo. Este traço é observado ao esfregar o mineral contra uma placa de porcelana não esmaltada.
+**Traço**: O traço da ametista, quando testado, é geralmente branco, o que é típico para variedades de quartzo. Este traço é observado ao esfregar o mineral contra uma placa de porcelana não esmaltada.
 
 **Fratura**:Apresenta uma fratura concóide, caracterizada por superfícies lisas e curvas que se assemelham a conchas. Essa propriedade indica a tendência do mineral em quebrar de forma irregular, em vez de ao longo de planos de clivagem definidos.
 
