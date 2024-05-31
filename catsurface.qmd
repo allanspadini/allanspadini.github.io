@@ -6,4 +6,4 @@ format:
     title-block-banner: false
 ---
 
-<iframe src="https://cat-surface.streamlit.app/?embedded=True&embed_options=show_footer" frameborder="0" height=100% width=100%  ></iframe>
+<iframe src="https://allanspadini.com/cat-surface-serveless/" frameborder="0" height=100% width=100%  ></iframe>
