@@ -6,13 +6,13 @@ resources:
   - CNAME
 
 website:
-  title: "Allan Spadini"
+  title: "Shaking Geosciences"
   favicon: favicon.png
   google-analytics: "G-GYGVDM95HH"
   navbar:
     right:
       
-      - text: Aprender Geofísica
+      - text: Youtube Channel
         menu: 
         - text: Sísmica
           href: https://www.youtube.com/watch?v=evYh-mtvhQQ&list=PLJL6CiUP6VydBjCqH_TiUcERljDZm38hW&pp=gAQB
@@ -24,14 +24,14 @@ website:
           href: https://allanspadini-geocateye-geocateye-dvdnbe.streamlit.app/
         - text: Cat Surface
           href: catsurface.qmd
-      - text: Livros
+      - text: Books
         menu:
         - text: Séries temporais com Prophet
           href: https://www.casadocodigo.com.br/products/livro-series-temporais-prophet
 
-      - text: Monitor da Terra
+      - text: Earth Monitor
         menu:
-        - text: Terremotos no mundo
+        - text: Lastest Earthquakes
           href: dashboard.qmd
         
       - icon: github

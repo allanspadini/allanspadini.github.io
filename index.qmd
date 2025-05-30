@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-lang: pt-br
+lang: en-us
 listing:
   contents: posts
   sort: "date desc"

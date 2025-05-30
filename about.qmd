@@ -4,9 +4,9 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/allanspadini
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCBWKbdhFu4Mc1hvKhBxWxgQ
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/allan-spadini/
@@ -16,6 +16,10 @@ about:
 
 ---
 
-Um geofísico que dá aulas de ciência de dados e gosta muito de gatos.
+Welcome to **Shaking Geosciences**! 🌏
 
-Recentemente eu e uma amiga lançamos um livro. O nome é [Séries temporais com Prophet Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet). Comprando o livro você aprende sobre um tema muito legal de Ciência de dados e apoia esse blog :)
+Are you passionate about the Earth, its mysteries, and the power of technology? Look no further! Our channel is your gateway to the fascinating world of geosciences, where we explore the intersection of Earth science, open-source tools, and cutting-edge AI applications.
+
+**Science Communication:** Whether you're a student, researcher, or just Earth-curious, you'll find content that bridges the gap between scientific knowledge and public understanding..
+ **Open-Source Geoscience Tools:** Discover the best open-source tools for geosciences in the cloud. Whether it's GIS, remote sensing, or data visualization, we've got you covered.
+**AI and Machine Learning:** Explore how artificial intelligence and machine learning are reshaping geosciences. Predictive models, land cover classification, and anomaly detection—cloud-powered AI is our compass.
